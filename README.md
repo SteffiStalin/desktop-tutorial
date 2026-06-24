@@ -1,5 +1,22 @@
-# Welcome to GitHub Desktop!
+# Personal Portfolio Website
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A responsive personal portfolio website built using HTML and CSS to showcase my profile, skills, projects, and contact details.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Features
+- Clean and modern user interface
+- Responsive design
+- About Me section
+- Skills section
+- Projects showcase
+- Contact section
+
+## Technologies Used
+- HTML
+- CSS
+- Visual Studio Code
+
+## Purpose
+This project was created to present my technical skills, projects, and professional profile in a structured and visually appealing way.
+
+## Author
+Steffi Stalin S
